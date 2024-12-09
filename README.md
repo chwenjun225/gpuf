@@ -382,21 +382,21 @@ This project provides scripts and tools to finetune large language models (LLMs)
 ## Installation
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
-    ```
-    
+	```sh
+	git clone https://github.com/yourusername/your-repo-name.git
+	cd your-repo-name
+	```
+	
 2. Create and activate a conda environment:
-    ```sh
-    conda create -n fsdp_qlora_env python=3.10
-    conda activate fsdp_qlora_env
-    ```
+	```sh
+	conda create -n fsdp_qlora_env python=3.10
+	conda activate fsdp_qlora_env
+	```
 
 3. Install the required dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
+	```sh
+	pip install -r requirements.txt
+	```
 
 ## Usage
 
